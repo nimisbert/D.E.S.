@@ -1,6 +1,11 @@
 # DES
 
-A C implementation of the D.E.S. algorithm.
+An implementation of the D.E.S. algorithm in C.
+
+## Building 
+
+- mkdir build && cd build
+- cmake .. && make
 
 ## Source
 
