@@ -1,11 +1,14 @@
-# DES
+# D.E.S. : Data Encryption Algorithm
 
 An implementation of the D.E.S. algorithm in C.
 
 ## Building 
 
-- mkdir build && cd build
-- cmake .. && make
+```shell
+mkdir build
+cd build
+cmake .. && make
+```
 
 ## Source
 
